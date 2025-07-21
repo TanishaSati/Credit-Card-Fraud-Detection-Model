@@ -8,7 +8,7 @@ A machine learning-based project to detect fraudulent credit card transactions. 
 
 - Built a classification model to detect fraud using anonymized credit card transaction data.
 - Compared **six different machine learning algorithms** and found **Random Forest** performed best with an accuracy of **99.95%**.
-- The system is deployed using **Flask** with a simple and interactive **HTML/CSS/JS frontend**.
+- The system is deployed using **Flask** with a simple UI.
 - Real-time predictions are made based on user input, making the system practical and testable.
 <img width="629" height="169" alt="image" src="https://github.com/user-attachments/assets/b206f233-962e-45f3-a514-75438a83b4f7" />
 

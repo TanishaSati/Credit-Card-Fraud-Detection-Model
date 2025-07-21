@@ -1,0 +1,20 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Credit Card Fraud Detection</title>
+</head>
+<body>
+    <h2>Credit Card Fraud Detection</h2>
+    <form action="/predict" method="post">
+        <input type="text" name="V1" placeholder="V1">
+        <input type="text" name="V2" placeholder="V2">
+        <input type="text" name="V3" placeholder="V3">
+        <!-- Add inputs for all features used in your model -->
+        <input type="text" name="Amount" placeholder="Amount">
+        <button type="submit">Predict</button>
+    </form>
+
+    <h3>{{ prediction_text }}</h3>
+</body>
+</html>

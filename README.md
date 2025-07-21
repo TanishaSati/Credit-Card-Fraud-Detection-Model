@@ -10,7 +10,10 @@ A machine learning-based project to detect fraudulent credit card transactions. 
 - Compared **six different machine learning algorithms** and found **Random Forest** performed best with an accuracy of **99.95%**.
 - The system is deployed using **Flask** with a simple UI.
 - Real-time predictions are made based on user input, making the system practical and testable.
-<img width="629" height="169" alt="image" src="https://github.com/user-attachments/assets/b206f233-962e-45f3-a514-75438a83b4f7" />
+
+<img width="1086" height="441" alt="image" src="https://github.com/user-attachments/assets/06eff310-9791-4dbd-896b-b3d29fb6961c" />
+
+
 
 
 ## 🧠 Machine Learning & Python Details
@@ -30,6 +33,8 @@ A machine learning-based project to detect fraudulent credit card transactions. 
 - Decision Tree
 - Naive Bayes
 - **Random Forest** (Best Performance)
+
+<img width="629" height="169" alt="image" src="https://github.com/user-attachments/assets/b206f233-962e-45f3-a514-75438a83b4f7" />
 
 <img width="734" height="182" alt="image" src="https://github.com/user-attachments/assets/935642ab-1b71-4d7a-bf08-7914b3b39825" />
 

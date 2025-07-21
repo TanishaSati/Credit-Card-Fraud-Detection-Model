@@ -1,4 +1,4 @@
-# 💳 Credit Card Fraud Detection System
+# FraudSheild : Credit Card Fraud Detection System
 
 A machine learning-based project to detect fraudulent credit card transactions. The model is trained on a highly imbalanced dataset and deployed using Flask for real-time web-based predictions.
 
